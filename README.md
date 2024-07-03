@@ -1,1 +1,2 @@
-# newsmaniaAPI
+# the-newsmania
+ 
